@@ -6,7 +6,7 @@ The Email Registration Checker is a tool designed to verify whether an email add
 **Installation:**
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/email-registration-checker.git
+   git clone https://github.com/imakash-sinha/email-registration-checker.git
    ```
 
 2. Navigate to the project directory:
