@@ -1,4 +1,4 @@
-**Project Name: Email Registration Checker**
+#**Project Name: Email Registration Checker**
 
 **Description:**
 The Email Registration Checker is a tool designed to verify whether an email address is registered on a predefined set of websites. It allows users to input an email address and optionally specify websites to check against.
