@@ -1,6 +1,4 @@
-Absolutely, here's a revised version of the `README.md` with formatting and slight modifications:
 
-```markdown
 # Email Registration Checker
 
 The **Email Registration Checker** is a Python tool designed to verify whether an email address is registered on a predefined set of websites. It offers a command-line interface for easy usage.
